@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3796
     wikipedia: http://en.wikipedia.org/wiki/Alice_Muriel_Williamson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29715#The-Princess-Virginia
 gutenberg_issued: '2009-08-17'
 gutenberg_type: Text
 identifiers:
